@@ -1,0 +1,15 @@
+Welcome to ESSC2030 - Lecture11 Application of Geoscience Tutorial on
+Stereonegraphic Projection and Stereonet on Python
+
+The tutorial package include the following files
+    ├── Lai_chi_chong_bedding.data
+    ├── Lec11_tut_stereo.ipynb
+    ├── README
+    ├── fig
+    │   ├── Fold_axis_method.gif
+    │   ├── LLC_slumpfold.jpg
+    │   └── Stereographic_projection.jpg
+    ├── lai_chi_chong_fold.data
+    └── lec11_stereo.yml
+
+The tutorial requires conda environment in python 2.7
