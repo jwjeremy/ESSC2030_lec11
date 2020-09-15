@@ -17,6 +17,10 @@ conduct the tutorial.
     Select lec11_stereo/Lec11_tut_stereo [Student_version].ipynb
         or lec11_stereo/Lec11_tut_stereo.ipynb if you want answer lol
 
+    Please also upload the data file required in the tutorial to the google
+    colab, which are lai_chi_chong_fold.data and Lai_chi_chong_bedding.data
+    respectively.
+
     The use of google colab is same as jupter notebook. It ultize google server
     to support the ipython console at backend, which allow us to run on webpage.
 
@@ -61,4 +65,4 @@ The tutorial package includes the following files
 Latest updates of the tutorial can be found in: https://github.com/jwjeremy/ESSC2030_lec11
 
 
-Latest update: 2020/09 
+Latest update: 2020/09 by JW 
