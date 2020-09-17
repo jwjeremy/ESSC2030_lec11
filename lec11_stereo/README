@@ -15,20 +15,23 @@ conduct the tutorial.
         https://github.com/jwjeremy/ESSC2030_lec11
 
     Select lec11_stereo/Lec11_tut_stereo [Student_version].ipynb
-        or lec11_stereo/Lec11_tut_stereo.ipynb if you want answer lol
+        or lec11_stereo/Lec11_tut_stereo.ipynb if you want answer
+
+    Please remember to save the session to your own google drive to leave
+    records on your progress.
 
     Please also upload the data file required in the tutorial to the google
     colab, which are lai_chi_chong_fold.data and Lai_chi_chong_bedding.data
     respectively.
 
-    The use of google colab is same as jupter notebook. It ultize google server
-    to support the ipython console at backend, which allow us to run on webpage.
+    The use of google colab is same as jupyter notebook. It utilizes google server
+    to support the ipython console at backend, which allows us to run on a webpage.
 
-    On the left coloumn, you can select table of content to navigate throughout
+    On the left column, you can select table of content to navigate throughout
     the tutorial. 
 
     Please be noted that it is unable to save the record automatically. You can
-    download the .ipynb and replace the one in tutorial package.
+    download the .ipynb and replace the one in the tutorial package.
     
 
     2. Run locally
