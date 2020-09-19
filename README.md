@@ -1,4 +1,5 @@
-# Welcome to tutorial section of ESSC2030 Lecture 11 Application ot geosciences
+# Welcome to ESSC2030 Lecture 11 Application of geosciences
+## Tutorial section
 
 There are three tutorials. You can download the tutorial package to run locally or try the below methods to complete the tutorial. Should you have any questions, please fill free to ask TAs and Lecturor.
 
