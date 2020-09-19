@@ -1,11 +1,17 @@
-Welcome to ESSC2030 - Lecture11 Application of Geoscience 
-Tutorial on Stereonegraphic Projection and Stereonet on Python
+# Welcome to ESSC2030 - Lecture11 Application of Geoscience 
+## Tutorial on Stereonegraphic Projection and Stereonet on Python
 
 This tutorial will introduce using Python to analysis and illustrate 3D
 geological structures using Stereonet. First of all, there are two methods to
 conduct the tutorial. 
 
-    1. Google Colab [Suggested]
+1. Pre-build Docker - Binder [Suggested]
+    
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jwjeremy/ESSC2030_lec11/master)
+        
+    The link will connect to jupyter notebook of the repository that can run remotely.
+        
+2. Google Colab 
 
     Open a webpage and go to https://colab.research.google.com/
 
@@ -34,7 +40,7 @@ conduct the tutorial.
     download the .ipynb and replace the one in the tutorial package.
     
 
-    2. Run locally
+3. Run locally
 
     Since the following tutorial requires python2 and relevant packages, please
     create a new conda environment using the lec11_stereo.yml
