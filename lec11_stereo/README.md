@@ -2,7 +2,7 @@
 ## Tutorial on Stereonegraphic Projection and Stereonet on Python
 
 This tutorial will introduce using Python to analysis and illustrate 3D
-geological structures using Stereonet. First of all, there are two methods to
+geological structures using Stereonet. First of all, there are three suggested methods to
 conduct the tutorial. 
 
 1. Pre-build Docker - Binder [Suggested]
